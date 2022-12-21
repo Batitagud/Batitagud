@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Batitagud
 - 👀 I’m interested in Computer Science and Design Graphic
 - 🌱 I’m currently learning a programming language
-- 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me @thisis_ilman
 
 <!---
